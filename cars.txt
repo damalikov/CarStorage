@@ -1,0 +1,6 @@
+1 | BMW M3 330d | 2018 | black | 150800
+2 | Volkswagen Polo | 2020 | white | 41000
+3 | Audi A3 | 2018 | dark-red | 69000
+4 | Renault Arkana | 2019 | orange | 72800
+5 | Skoda Oktavia A8 | 2021 | light-blue | 87300
+6 | Volkswagen Passat | 2020 | white | 103000
